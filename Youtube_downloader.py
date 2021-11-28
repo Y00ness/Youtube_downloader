@@ -33,7 +33,7 @@ except:
     print('\nconnection lost :(')
 
 try:
-    startfile(f'{video.title}.mp4')
+    startfile(f'{video.title}.mp4')     # play the downloaded video
 except:
     pass
 input('\n\ndone\nHave a good day... :)\n\ndeveloped by ==Unes==')
