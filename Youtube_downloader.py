@@ -36,4 +36,4 @@ try:
     startfile(f'{video.title}.mp4')     # play the downloaded video
 except:
     pass
-input('\n\ndone\nHave a good day... :)\n\ndeveloped by ==Unes==')
+input('\nHave a good day... :)\nDeveloped by ==Unes==\n[telegram:t.me/unes_h]')
